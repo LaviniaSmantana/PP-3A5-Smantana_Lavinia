@@ -1,0 +1,7 @@
+.gitignore
+.idea
+Lib
+main.py
+pyvenv.cfg
+Scripts
+test.txt
